@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Sırlar (API anahtarları vb.) - asla commit'lenmez
+.env
+
+# İndirilen metinler ve veritabanı - script tekrar üretebilir
+data/
+
+# Telifli kaynaklar: yayımlanmış Türkçe çeviriler, modern Çince baskılar.
+# Yalnızca yerelde ölçüm için kullanılır.
+telifli/
+
+# Editör / işletim sistemi
+.vscode/
+.idea/
+Thumbs.db
