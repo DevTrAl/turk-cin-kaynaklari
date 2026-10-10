@@ -12,6 +12,11 @@ Aşama 0 tamamlandı (2026-10-10): demo JSON şablonu olduğu gibi kabul edildi.
 - 2026-10-10: Demo pasajı seçildi: 卷194上'ün ilk cümleleri (始畢可汗咄吉者…).
   Elle hazırlanmış örnek çıktı: `demo/pasaj_194a_001.json`.
 
+- 2026-10-10: SQLModel ile 9 tablo kuruldu (`pipeline/models.py`, veritabanı `data/turk_cin.db`).
+- 2026-10-10: `pipeline/download.py`: tek cildi Vikikaynak API'sinden indirip kaydediyor.
+  舊唐書 194上 indirildi (13.358 karakter, kalite %25).
+- 2026-10-10: Depo GitHub'a gönderildi: github.com/DevTrAl/turk-cin-kaynaklari (herkese açık).
+
 ## Aşama 4 için notlar
 
 - Terimlerin yazım varyantları var: 舊唐書 194上'de 特勤 yerine 特勒, bir yerde 設 yerine 殺
@@ -20,4 +25,5 @@ Aşama 0 tamamlandı (2026-10-10): demo JSON şablonu olduğu gibi kabul edildi.
 
 ## Sıradaki
 
-- Aşama 1 planını onayla, ilk adım: tek cildi Vikikaynak'tan indirip kaydet.
+- Boy listesi dosyası (`pipeline/boylar.txt`, geniş liste) ve sayım fonksiyonu.
+- Sonra: 舊唐書'nin 200 cildini indir ve say.
