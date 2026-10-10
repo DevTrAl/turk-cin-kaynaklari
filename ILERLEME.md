@@ -1,6 +1,8 @@
 # İlerleme
 
-Şu anki aşama: **0 - Tek pasajı elle hazırla, çıktı formatına karar ver**
+Şu anki aşama: **1 - 24 hanedan tarihinde boy adlarını tara**
+
+Aşama 0 tamamlandı (2026-10-10): demo JSON şablonu olduğu gibi kabul edildi.
 
 ## Yapılanlar
 
@@ -12,5 +14,4 @@
 
 ## Sıradaki
 
-- Demo JSON'daki alanları gözden geçir, eksik/fazla alan var mı karar ver.
-- Aşama 0'ı kapat, Aşama 1'e (boy adı taraması) geç.
+- Aşama 1 planını onayla, ilk adım: tek cildi Vikikaynak'tan indirip kaydet.
