@@ -1,0 +1,106 @@
+{
+  "work": {
+    "title_zh": "舊唐書",
+    "title_tr": "Eski Tang Tarihi"
+  },
+  "section": {
+    "volume": "194上",
+    "heading_zh": "列傳第一百四十四上 突厥上",
+    "source_url": "https://zh.wikisource.org/wiki/舊唐書/卷194上"
+  },
+  "passage": {
+    "id": "194a-001",
+    "position": "Bölümün ilk 3 cümlesi (paragrafın tamamı değil)",
+    "text_zh": "突厥之始，啟民之前，《隋書》載之備矣，只以入國之事而述之。始畢可汗咄吉者，啟民可汗子也。隋大業中嗣位，值天下大亂，中國人奔之者眾。",
+    "text_with_placeholders": "{TRIBE_1}之始，{NAME_1}之前，《{WORK_1}》載之備矣，只以入國之事而述之。{NAME_2}{TITLE_1}{NAME_3}者，{NAME_1}{TITLE_1}子也。{DYNASTY_1}{ERA_1}中嗣位，值天下大亂，中國人奔之者眾。"
+  },
+  "names": [
+    {
+      "placeholder": "NAME_1",
+      "original": "啟民",
+      "pinyin": "Qǐmín",
+      "turkish": "Kimin",
+      "middle_chinese": null,
+      "source": "Elle, doğrulanmadı",
+      "uncertain": true
+    },
+    {
+      "placeholder": "NAME_2",
+      "original": "始畢",
+      "pinyin": "Shǐbì",
+      "turkish": "Şibi",
+      "middle_chinese": null,
+      "source": "Elle, doğrulanmadı",
+      "uncertain": true
+    },
+    {
+      "placeholder": "NAME_3",
+      "original": "咄吉",
+      "pinyin": "Duōjí",
+      "turkish": null,
+      "middle_chinese": null,
+      "source": "Türkçe karşılığı bulunamadı",
+      "uncertain": true
+    },
+    {
+      "placeholder": "TRIBE_1",
+      "original": "突厥",
+      "pinyin": "Tūjué",
+      "turkish": "Türk",
+      "middle_chinese": null,
+      "source": "Elle",
+      "uncertain": false
+    },
+    {
+      "placeholder": "WORK_1",
+      "original": "隋書",
+      "pinyin": "Suí shū",
+      "turkish": "Sui Tarihi",
+      "middle_chinese": null,
+      "source": "Elle",
+      "uncertain": false
+    },
+    {
+      "placeholder": "DYNASTY_1",
+      "original": "隋",
+      "pinyin": "Suí",
+      "turkish": "Sui",
+      "middle_chinese": null,
+      "source": "Elle",
+      "uncertain": false
+    },
+    {
+      "placeholder": "ERA_1",
+      "original": "大業",
+      "pinyin": "Dàyè",
+      "turkish": "Daye dönemi (605-618)",
+      "middle_chinese": null,
+      "source": "Elle",
+      "uncertain": false
+    }
+  ],
+  "terms": [
+    {
+      "placeholder": "TITLE_1",
+      "original": "可汗",
+      "turkish": "kağan",
+      "category": "title"
+    },
+    {
+      "placeholder": "TRIBE_1",
+      "original": "突厥",
+      "turkish": "Türk",
+      "category": "tribe"
+    }
+  ],
+  "translations": [
+    {
+      "text_tr": "Türklerin (突厥) başlangıcı ve Kimin (啟民) öncesi Sui Tarihi'nde (隋書) ayrıntılı anlatılmıştır; burada yalnızca [Tang] ülkesiyle ilişkileri anlatılır. Şibi Kağan (始畢可汗), adı Duoji (咄吉), Kimin Kağan'ın (啟民可汗) oğludur. Sui'nin Daye döneminde (大業) tahta geçti; ülkede büyük kargaşa vardı, ona sığınan Çinliler çoktu.",
+      "path": "manual",
+      "model": null,
+      "produced_by": "Claude (sohbette elle), uzman kontrolü yok",
+      "date": "2026-10-10",
+      "verified": false
+    }
+  ]
+}
