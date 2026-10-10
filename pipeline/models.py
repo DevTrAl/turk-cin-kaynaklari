@@ -29,6 +29,7 @@ class Bolum(SQLModel, table=True):
     heading_zh: Optional[str] = None  # 列傳第一百四十四上 突厥上
     source_url: str
     text_zh: str  # Vikikaynak'tan indirilen ham metin
+    text_quality: Optional[str] = None  # Vikikaynak'ın kalite işareti, ör. "25%" = düzeltilmemiş
     downloaded_at: datetime
 
 
